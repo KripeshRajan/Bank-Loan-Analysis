@@ -48,11 +48,11 @@ This Power BI dashboard provides a comprehensive view of bank loan performance, 
 
 - **`Bank Loan Analysis.pbix`**: The Power BI file containing the dashboard design and data model.
 - **`finanacial_loan.csv`**: The raw dataset used to create the dashboard.
-- **`SQL Queries.docx`**: SQL Queries used for the project
+- **`SQL Queries Used.docx`**: SQL Queries used for the project
 - **`Dataset Description.docx`**: Terminologies used in the data set
 - **`Problem Statements.docx`**: Problem statements to find out from the data set
 - **`README.md`**: This documentation file.
-- **` BL1.jpg, BL2.jpg, BL3.jpg`**: A preview of the Bank Loan Anlysis Dashboard for quick reference.
+- **` Preview1.jpg, Preview2.jpg, Preview3.jpg`**: A preview of the Bank Loan Anlysis Dashboard for quick reference.
 
 
 ## Snapshot of Dashboard (Power BI Service)
