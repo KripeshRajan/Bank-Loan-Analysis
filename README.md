@@ -1,5 +1,5 @@
 # Bank Loan Analysis
-
+![419-4194456_american-national-bank-design-for-america-hd-png-removebg-preview](https://github.com/user-attachments/assets/bb83e50a-8a7e-4417-b62d-5e3c9acaf1ce)
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNzlmNjUwOTktMzYxMS00ODM2LWI1NDctN2VjMjRhMjk3MTdkIiwidCI6ImVkNTcxY2M5LWYxNGUtNGFiOS1hZjY4LTkzOTIyNjY0ZWQzZiJ9
 
 ## Overview
