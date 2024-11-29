@@ -14,9 +14,9 @@ This Power BI dashboard provides a comprehensive view of bank loan performance, 
 - Average interest rate and debt-to-income ratio
 - Loan status distribution (fully paid, charged off, current)
 - Good vs. bad loan comparison
-- Loan Applications and Trends:
 
-### 2. Monthly loan application trends
+### 2.Loan Applications and Trends:
+- Monthly loan application trends
 - State-wise distribution of applications
 - Loan term distribution
 - Borrower employee tenure analysis
