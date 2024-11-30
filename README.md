@@ -53,7 +53,7 @@ This Power BI dashboard provides a comprehensive view of bank loan performance, 
 - **`Dataset Description.docx`**: Terminologies used in the data set
 - **`Problem Statements.docx`**: Problem statements to find out from the data set
 - **`README.md`**: This documentation file.
-- **` image1.jpg, image2.jpg, image3.jpg`**: A preview of the Bank Loan Anlysis Dashboard for quick reference.
+- **` citi image1.jpg, citi image2.jpg, city image3.jpg`**: A preview of the Bank Loan Anlysis Dashboard for quick reference.
 
 
 ## Snapshot of Dashboard (Power BI Service)
