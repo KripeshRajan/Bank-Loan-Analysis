@@ -1,5 +1,5 @@
-# Bank Loan Analysis
-![419-4194456_american-national-bank-design-for-america-hd-png-removebg-preview](https://github.com/user-attachments/assets/bb83e50a-8a7e-4417-b62d-5e3c9acaf1ce)
+# Citi Bank Loan Analysis
+![2021-08-03T151043Z_2090114337_RC2QXO90T981_RTRMADP_3_USA-STOCKS-1024x604](https://github.com/user-attachments/assets/56dea8dd-f0a8-4424-a691-0b543cb82673)
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNzlmNjUwOTktMzYxMS00ODM2LWI1NDctN2VjMjRhMjk3MTdkIiwidCI6ImVkNTcxY2M5LWYxNGUtNGFiOS1hZjY4LTkzOTIyNjY0ZWQzZiJ9
 
 ## Overview
@@ -46,19 +46,20 @@ This Power BI dashboard provides a comprehensive view of bank loan performance, 
 
 ## File Structure
 
-- **`Bank Loan Analysis.pbix`**: The Power BI file containing the dashboard design and data model.
+- **`Citi Bank Loan Analysis.pbix`**: The Power BI file containing the dashboard design and data model.
 - **`finanacial_loan.csv`**: The raw dataset used to create the dashboard.
 - **`SQL Queries Used.docx`**: SQL Queries used for the project
 - **`Dataset Description.docx`**: Terminologies used in the data set
 - **`Problem Statements.docx`**: Problem statements to find out from the data set
 - **`README.md`**: This documentation file.
-- **` Preview1.jpg, Preview2.jpg, Preview3.jpg`**: A preview of the Bank Loan Anlysis Dashboard for quick reference.
+- **` image1.jpg, image2.jpg, image3.jpg`**: A preview of the Bank Loan Anlysis Dashboard for quick reference.
 
 
 ## Snapshot of Dashboard (Power BI Service)
-![BL3](https://github.com/user-attachments/assets/0d8b92e7-8d81-4298-bddb-2a35d7638572)
-![BL2](https://github.com/user-attachments/assets/0480fa52-00dc-4a7a-8c36-bbc5cc164893)
-![BL1](https://github.com/user-attachments/assets/0cee1cbd-d96b-4278-8824-39e9da7c582c)
+![citi image1](https://github.com/user-attachments/assets/5abeb91d-999b-4e90-a5c3-d7b2f6e2e9b3)
+![citi image2](https://github.com/user-attachments/assets/3e0ce4c1-ca3c-4955-8ed6-56f86c304fdc)
+![citi image3](https://github.com/user-attachments/assets/3cf4a7db-357b-41dc-b707-e4fbeb7a5088)
+
 
  
 
