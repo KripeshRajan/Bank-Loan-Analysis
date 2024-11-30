@@ -1,5 +1,5 @@
 # Citi Bank Loan Analysis
-![pngegg (2)](https://github.com/user-attachments/assets/cddefca0-b7cb-47ea-bcc3-1eae90c3d221)
+![pngwing com (1)](https://github.com/user-attachments/assets/a4e18a6d-737c-4d79-96b2-68ef0c1f9757)
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNzlmNjUwOTktMzYxMS00ODM2LWI1NDctN2VjMjRhMjk3MTdkIiwidCI6ImVkNTcxY2M5LWYxNGUtNGFiOS1hZjY4LTkzOTIyNjY0ZWQzZiJ9
 
