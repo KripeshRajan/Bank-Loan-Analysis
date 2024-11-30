@@ -1,7 +1,7 @@
 # Citi Bank Loan Analysis
 ![pngwing com (1)](https://github.com/user-attachments/assets/a4e18a6d-737c-4d79-96b2-68ef0c1f9757)
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNzlmNjUwOTktMzYxMS00ODM2LWI1NDctN2VjMjRhMjk3MTdkIiwidCI6ImVkNTcxY2M5LWYxNGUtNGFiOS1hZjY4LTkzOTIyNjY0ZWQzZiJ9
+### Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiMTYwMmMyM2YtY2M3OC00ODQ2LWExNDUtZTIzNWYzMDU1ZmYzIiwidCI6ImVkNTcxY2M5LWYxNGUtNGFiOS1hZjY4LTkzOTIyNjY0ZWQzZiJ9
 
 ## Overview
 
