@@ -1,5 +1,6 @@
 # Citi Bank Loan Analysis
-![2021-08-03T151043Z_2090114337_RC2QXO90T981_RTRMADP_3_USA-STOCKS-1024x604](https://github.com/user-attachments/assets/56dea8dd-f0a8-4424-a691-0b543cb82673)
+![pngegg (2)](https://github.com/user-attachments/assets/cddefca0-b7cb-47ea-bcc3-1eae90c3d221)
+
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNzlmNjUwOTktMzYxMS00ODM2LWI1NDctN2VjMjRhMjk3MTdkIiwidCI6ImVkNTcxY2M5LWYxNGUtNGFiOS1hZjY4LTkzOTIyNjY0ZWQzZiJ9
 
 ## Overview
